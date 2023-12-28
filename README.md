@@ -12,7 +12,7 @@
 
 <p align="center"><img src="https://i.gifer.com/fxVE.gif" width="600" height="300"  /></p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 ### About Me :
 
@@ -22,6 +22,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 - 🌱 Learning to write technical content.
 - ⚡ In my free time, I solve problems on codewars and read technical articles. PS. Sometimes I play chess
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
