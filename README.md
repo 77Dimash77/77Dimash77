@@ -48,21 +48,15 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ---
 
 ### 🔥 &nbsp; My Stats :
-
-
+[![codewars](https://www.codewars.com/users/77Dimash77/badges/large)](https://www.codewars.com/users/77Dimash77)   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=77Dimash77&theme=dark&background=000000)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=77Dimash77&theme=dark&background=000000)
-
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=77Dimash77&theme=dark&background=000000)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=77Dimash77&theme=dark&background=000000)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=77Dimash77&theme=dark&background=000000)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=77Dimash77&theme=dark&background=000000)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=77Dimash77&theme=dark&background=000000)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=77Dimash77&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=77Dimash77&theme=dark&background=000000)
 
-[![codewars](https://www.codewars.com/users/77Dimash77/badges/large)](https://www.codewars.com/users/77Dimash77)   
+
+
 
 <!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=77Dimash77&theme=dark)](https://github.com/77Dimash77/leetcode-stats)
 
