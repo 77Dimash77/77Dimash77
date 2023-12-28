@@ -63,7 +63,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 [![codewars](https://www.codewars.com/users/77Dimash77/badges/large)](https://www.codewars.com/users/77Dimash77)   
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=77Dimash77&theme=dark)](https://github.com/77Dimash77/leetcode-stats)
+<!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=77Dimash77&theme=dark)](https://github.com/77Dimash77/leetcode-stats)
 
 
 
