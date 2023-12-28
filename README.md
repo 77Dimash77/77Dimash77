@@ -12,6 +12,8 @@
 
 <p align="center"><img src="https://i.gifer.com/fxVE.gif" width="600" height="300"  /></p>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ### About Me :
 
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
@@ -59,6 +61,10 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=77Dimash77&theme=dark&background=000000)
 
 [![codewars](https://www.codewars.com/users/77Dimash77/badges/large)](https://www.codewars.com/users/77Dimash77)   
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=77Dimash77&theme=dark)](https://github.com/77Dimash77/leetcode-stats)
+
+
 
 ---
 
