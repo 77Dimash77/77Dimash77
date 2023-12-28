@@ -34,7 +34,9 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows"  alt="Windows" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".net"  alt=".net" width="40" height="40"/>&nbsp;
 </p>
+
 ---
+
 ### 🔥 &nbsp; My Stats :
 
 [![codewars](https://www.codewars.com/users/77Dimash77/badges/large)](https://www.codewars.com/users/77Dimash77)   
