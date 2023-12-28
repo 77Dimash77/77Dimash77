@@ -58,8 +58,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=77Dimash77&theme=dark&background=000000)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=77Dimash77&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
-
+[![codewars](https://www.codewars.com/users/77Dimash77/badges/large)](https://www.codewars.com/users/77Dimash77)   
 
 ---
 
