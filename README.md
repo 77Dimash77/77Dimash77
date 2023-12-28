@@ -1,6 +1,6 @@
 
-<div id="header" align="center">
-  <img src="[https://usagif.com/wp-content/uploads/gifs/pirate-flag-3.gif](https://giphy.com/gifs/flag-pirates-perfect-gif-vT6qlTWOWYzZK)" width="100"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 <p align="center">
