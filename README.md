@@ -11,7 +11,7 @@
 <p align="center"><img src="https://i.gifer.com/fxVE.gif" width="600" height="300"  /></p>
 
 ### About Me :
-I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan --> Spain.
+I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
 - I have the education of a programmer, financier, accountant and psychologist
 - 🌱 Learning to write technical content.
 - ⚡ In my free time, I solve problems on codewars and read technical articles. PS. Sometimes I play chess
