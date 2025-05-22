@@ -14,7 +14,6 @@
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
 - I have the education of a programmer, financier and accountant. 
 - 🌱 Learning to write technical content.
-- ⚡ In my free time, I solve problems on codewars and read technical articles. PS. Sometimes I play chess
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ---
 ### 🛠 &nbsp;Languages and Tools :
